@@ -28,5 +28,6 @@ section{
 }
 
 header, nav, footer{
-    height:
+    height:100px;
+    margin: 1%;
 }
