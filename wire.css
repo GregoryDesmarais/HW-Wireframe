@@ -1,0 +1,29 @@
+body{
+    background-color: #777777;
+    color:#EBEBEB;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.box{
+    background-color: #EBEBEB;
+    color: #777777;
+    max-height: 75px;
+    text-align: center;
+    margin: 1% 3% 0;
+    padding: 4% 0;
+}
+
+.h{
+    font-weight: bold
+}
+
+.article{
+    background-color: #777777;
+    color:  #EBEBEB;
+}
+
+.section{
+    background-color: #EBEBEB;
+    color:  #777777;
+
+}
