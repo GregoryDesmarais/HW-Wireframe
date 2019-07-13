@@ -1,29 +1,32 @@
 body{
-    background-color: #777777;
-    color:#EBEBEB;
-    font-family: Arial, Helvetica, sans-serif
+    background-color: #777;
+    color:#777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    widows: 960px;
+    font-size: 18px;
+
 }
 
-.box{
-    background-color: #EBEBEB;
-    color: #777777;
-    max-height: 75px;
-    text-align: center;
-    margin: 1% 3% 0;
-    padding: 4% 0;
+header, nav, section, aside, footer{
+    background-color: #ebebeb;
 }
-
 .h{
     font-weight: bold
 }
 
-.article{
-    background-color: #777777;
-    color:  #EBEBEB;
+article{
+    background-color: #777;
+    color:  #ebebeb;
+}
+h1, p{
+    color: #777;
+    background-color: #ebebeb;
 }
 
-.section{
-    background-color: #EBEBEB;
-    color:  #777777;
+section{
+    width: 495px;
+}
 
+header, nav, footer{
+    height:
 }
